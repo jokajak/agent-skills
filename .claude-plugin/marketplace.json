@@ -1,0 +1,14 @@
+{
+  "name": "jokajak-skills",
+  "owner": {
+    "name": "jokajak",
+    "url": "https://github.com/jokajak"
+  },
+  "plugins": [
+    {
+      "name": "homelab",
+      "source": "./plugins/homelab",
+      "description": "Skills for operating the home-ops Kubernetes cluster"
+    }
+  ]
+}

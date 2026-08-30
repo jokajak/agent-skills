@@ -1,0 +1,9 @@
+{
+  "name": "homelab",
+  "description": "Skills for operating the home-ops Kubernetes cluster: querying logs, and whatever else earns a place here.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jokajak"
+  },
+  "license": "MIT"
+}
